@@ -7,3 +7,4 @@ Speed up Python code to C like performance
 * Numba translates Python function to optimized machine code 
 at run time  . Numba compile numerical algorithm in Python can approach the speed of
 C or FROTRAN.
+# WHAT IS JIT?
