@@ -8,3 +8,7 @@ Speed up Python code to C like performance
 at run time  . Numba compile numerical algorithm in Python can approach the speed of
 C or FROTRAN.
 # WHAT IS JIT?
+* JIT- just in time compilation
+* It is the way of execution of code that involves in 
+compilation during execution of a program rather than 
+before execution
