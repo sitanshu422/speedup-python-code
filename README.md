@@ -12,3 +12,9 @@ C or FROTRAN.
 * It is the way of execution of code that involves in 
 compilation during execution of a program rather than 
 before execution
+# 
+* Without JIT-
+  Execution time 11.85s
+* With JIT-
+   Execution time 0.81s
+* SPEEDUP +4,232%
